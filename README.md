@@ -27,6 +27,8 @@ and g5(carry,w2,w3);
 endmodule
 # Output
 <img width="656" alt="image" src="https://github.com/praveenkumar882003/FULL_ADDER/assets/164858953/8af40d9e-b35b-4361-8b19-086763dc26b9">
+
 # Result
+
 hence the ouput for full adder is verified.
 
